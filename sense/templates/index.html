@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <title>Mprogress.js</title>
+    <meta charset='utf-8'>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'styles/css/demo.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'styles/css/mprogress.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename = 'styles/css/bootstrap.css') }}" />
+
+</head>
+
+<body>
+    <div>
+        <span class='demo-button' id='demoDeStart'>start</span>
+        <span class='demo-button' id='demoDeEnd'>end</span>
+        <span class='demo-button' id='demoDeSet'>set</span>
+        <span class='demo-button' id='demoDeInc'>inc</span>
+    </div>
+    <div class="row">
+        <div class="col-lg-4">
+            <img src="{{ url_for('video_feed') }}">
+        </div>
+        <div class="col-lg-4">
+            <div class="text-block">
+                <div class="block1">
+                    <h3>单手抓取</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>双手上抬</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>单手左移</h3>
+                </div>
+            </div>
+
+            <div class="text-block">
+                <div class="block1">
+                    <h3>双手横向压缩</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>双手捂耳朵</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>单手下压</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>单手点击</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>单手举手</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>竖大拇指</h3>
+                </div>
+            </div>
+            <div class="text-block">
+                <div class="block1">
+                    <h3>单手右移</h3>
+                </div>
+            </div>          
+            <div class="text-block">
+                <div class="block1">
+                    <h3>双手旋转画圈</h3>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="col-lg-4">
+            <div class='demo-block'>
+                <div id="scratch" class="demo-bar"></div>
+                <div id="up" class="demo-bar"></div>
+
+                <div id="singelhand" class="demo-bar"></div>
+                <div id="narrow" class="demo-bar"></div>
+                <div id="ear" class="demo-bar"></div>
+                <div id="down" class="demo-bar"></div>
+                <div id="point" class="demo-bar"></div>
+
+                <div id="raise" class="demo-bar"></div>
+
+                <div id="thumb" class="demo-bar"></div>
+
+                <div id="singelhandr" class="demo-bar"></div>
+                <div id="round" class="demo-bar"></div>
+
+
+
+            </div>
+        </div>
+    </div>
+    <div> <textarea rows="3" cols="30" id="showMes" style="width:300px;height:500px;"></textarea>
+        <br />
+        <label>名称</label>
+        <input type="text" id="name" />
+        <br />
+        <label>消息</label>
+        <input type="text" id="mes" />
+        <button id="send">发送</button>
+    </div>
+
+    <script src="{{ url_for('static',filename='libs/zepto.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='js/mprogress.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='js/ff.js') }}"></script>
+    <!-- <script src='js/connect.js'></script> -->
+    <script>
+
+    </script>
+</body>
+
+</html>

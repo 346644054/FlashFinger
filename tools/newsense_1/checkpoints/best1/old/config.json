@@ -1,0 +1,14 @@
+{
+  "backbone_name": "StridedInflatedEfficientNet",
+  "backbone_version": "pro",
+  "num_layers_to_finetune": 9,
+  "classifier": "LogisticRegression(\n  (0): Linear(in_features=1280, out_features=10, bias=True)\n)",
+  "temporal_training": false,
+  "lr_schedule": {
+    "0": 0.0001,
+    "20": 1e-05
+  },
+  "num_epochs": 40,
+  "start_time": "2021-04-11 21:12:25.005489",
+  "end_time": "2021-04-11 21:42:51.736591"
+}

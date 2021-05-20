@@ -1,0 +1,14 @@
+{
+  "down": 0,
+  "do_other_thing": 1,
+  "ear": 2,
+  "handup": 3,
+  "left": 4,
+  "narrow": 5,
+  "point": 6,
+  "right": 7,
+  "roll": 8,
+  "scatch": 9,
+  "thumup": 10,
+  "up": 11
+}

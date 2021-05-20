@@ -1,0 +1,53 @@
+{
+  "name": "newSense_1",
+  "date_created": "2021-04-11",
+  "classes": {
+    "do_other_thing": [
+      "do_other_thing_tag1",
+      "do_other_thing_tag2"
+    ],
+    "point": [
+      "point_tag1",
+      "point_tag2"
+    ],
+    "scatch": [
+      "scatch_tag1",
+      "scatch_tag2"
+    ],
+    "left": [
+      "left_tag1",
+      "left_tag2"
+    ],
+    "right": [
+      "right_tag1",
+      "right_tag2"
+    ],
+    "up": [
+      "up_tag1",
+      "up_tag2"
+    ],
+    "down": [
+      "down_tag1",
+      "down_tag2"
+    ],
+    "byebye": [
+      "byebye_tag1",
+      "byebye_tag2"
+    ],
+    "narrow": [
+      "narrow_tag1",
+      "narrow_tag2"
+    ],
+    "roll": [
+      "roll_tag1",
+      "roll_tag2"
+    ]
+  },
+  "use_gpu": false,
+  "temporal": false,
+  "assisted_tagging": false,
+  "video_recording": {
+    "countdown": 3,
+    "recording": 5
+  }
+}

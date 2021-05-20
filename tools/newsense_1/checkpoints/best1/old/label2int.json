@@ -1,0 +1,12 @@
+{
+  "byebye": 0,
+  "down": 1,
+  "do_other_thing": 2,
+  "left": 3,
+  "narrow": 4,
+  "point": 5,
+  "right": 6,
+  "roll": 7,
+  "scatch": 8,
+  "up": 9
+}
