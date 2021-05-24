@@ -1,4 +1,4 @@
-<img src="README.assets/LOGOT.png" alt="LOGO"  />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/LOGOT.png" alt="LOGO"  />
 
 **基于手势识别的会商演示**
 
@@ -50,7 +50,7 @@
 
 ### 效果展示
 
-<video src="README.assets/realperform.mp4"></video>
+<video src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/realperform.mp4"></video>
 
 ### 使用说明
 
@@ -103,33 +103,33 @@ pip install -r requirement.txt
 
 1. 登录界面 在此界面可进行登录、注册操作，并有主页页面的链接。
 
-<img src="README.assets/login.png" alt="Figure1. Login" style="zoom: 67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/login.png" alt="Figure1. Login" style="zoom: 67%;" />
 
 2. 主界面 
 
-<img src="README.assets/main.png" alt="Figure2. Main" style="zoom:67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/main.png" alt="Figure2. Main" style="zoom:67%;" />
 
 3. 创建房间界面 
 
-<img src="README.assets/create.png" alt="Figure3. Create" style="zoom:67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/create.png" alt="Figure3. Create" style="zoom:67%;" />
 
 4. 加入房间界面 
 
-<img src="README.assets/join.png" alt="Figure4. Join" style="zoom:67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/join.png" alt="Figure4. Join" style="zoom:67%;" />
 
 5. 自定义模块界面
 
-<img src="README.assets/customer1.png" alt="Figure5_1. Customer1" style="zoom:67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/customer1.png" alt="Figure5_1. Customer1" style="zoom:67%;" />
 
-<img src="README.assets/customer2.png" alt="Figure5_2. Customer2" style="zoom:67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/customer2.png" alt="Figure5_2. Customer2" style="zoom:67%;" />
 
-<img src="README.assets/customer3.png" alt="Figure5_3. Customer3" style="zoom:67%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/customer3.png" alt="Figure5_3. Customer3" style="zoom:67%;" />
 
 ​	自定义面板提供修改特定手势动作与对应键盘映射的功能，可以根据自己的 使用习惯设置左右手模式，并将手势和对应操作进行绑定。
 
 6. 工具栏界面 创建或加入房间之后，Flash Finger 窗口将化为悬浮式工具栏，始终浮在窗 口最上方。当进行例如投票、权限转换等操作时，工具栏上的字样会发生改变， 提示用户当前所处的状态。 
 
-<img src="README.assets/state.png" alt="Figure6. state" style="zoom:50%;" />
+<img src="https://github.com/QEASONT/FlashFinger/blob/master/README.assets/state.png" alt="Figure6. state" style="zoom:50%;" />
 
 #### 三：关于我们的演示demo
 
